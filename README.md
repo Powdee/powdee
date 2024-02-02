@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Erik Kurjak 👋
+
+Here are some technologies and tools I frequently work with:
+
+- 💻 <b>Primary Languages</b>: Javascript/Typescript, Rust
+- 🌐 <b>Web Technologies</b>: React, Svelte, Angular, NodeJS, NestJS, Axum, ThreeJS
+- 🛢️ <b>Databases</b>: SQL, noSQL, GraphQL, Redis
+- 🚀 <b>Other Tools</b>: Docker, AWS, Firebase, Netflify/Vercel/Fast, Storybook, Figma, GitHub Actions, GitLab CI
+
+🌱 I’m currently learning wgpu in Rust
 
 <!--
 **Powdee/powdee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
