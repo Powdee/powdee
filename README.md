@@ -1,11 +1,13 @@
-### Hi there, I'm Erik Kurjak 👋
+### <div align='center'>Hi there, I'm Erik Kurjak 👋</div>
 
+<div align='center'>🏠 [Website](https://erikkurjak.com/) | 📋 [Résumé](https://resume.erikkurjak.com/) </div>
+<br />
 Here are some technologies and tools I frequently work with:
 
 - 💻 <b>Primary Languages</b>: Javascript/Typescript, Rust
-- 🌐 <b>Web Technologies</b>: React, Svelte, Angular, NodeJS, NestJS, Axum, ThreeJS
+- 🌐 <b>Web Technologies</b>: React, Svelte, Angular, NodeJS, NestJS, Leptos, Axum, ThreeJS
 - 🛢️ <b>Databases</b>: SQL, noSQL, GraphQL, Redis
-- 🚀 <b>Other Tools</b>: Docker, AWS, Firebase, Netflify/Vercel/Fast, Storybook, Figma, GitHub Actions, GitLab CI
+- 🚀 <b>Other Tools</b>: Docker, AWS, Firebase, Netflify/Vercel, Storybook, Figma, GitHub Actions, GitLab CI
 
 🌱 I’m currently learning wgpu in Rust
 
