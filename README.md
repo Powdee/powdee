@@ -1,7 +1,10 @@
-### <div align='center'>Hi there, I'm Erik Kurjak 👋</div>
+<h2 align='center'>Hi there, I'm Erik Kurjak 👋</h2>
+<h3 align='center'>
+  🏠 <a href="https://erikkurjak.com">Website</a> | 📋 <a href="https://resume.erikkurjak.com/embed-resume.html">Résumé</a>
+</h3>
 
-<div align='center'>🏠 [Website](https://erikkurjak.com/) | 📋 [Résumé](https://resume.erikkurjak.com/) </div>
 <br />
+
 Here are some technologies and tools I frequently work with:
 
 - 💻 <b>Primary Languages</b>: Javascript/Typescript, Rust
