@@ -1,6 +1,6 @@
 <h3 align='center'>Hi there, I'm Erik Kurjak 👋</h3>
 <h4 align='center'>
-  🏠 <a href="https://ekurjak.com">Website</a> | 📋 <a href="https://resume.erikkurjak.com/embed-resume.html">Résumé</a>
+  🏠 <a href="https://ekurjak.com">Website</a> 
 </h4>
 <p align='center'>Contact methods are available on my website.
   <br />
